@@ -10,7 +10,7 @@ My DCT algorithm implementation using PARCS-Python
 - large.jpg, source image for input_matrix_large_example.txt
 
 # How to add numpy
--> gcloud compute ssh master (or worker<numer>)
+-> gcloud compute ssh master (or worker<numer>) \n
 -> docker ps
 -> docker exec -it <container_id> /bin/bash
 -> pip install numpy
